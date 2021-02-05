@@ -14,3 +14,4 @@ class Rss(object):
         self.all_data = all_data
         self.website = website
         self.summary = summary
+
